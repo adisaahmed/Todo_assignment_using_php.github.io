@@ -3,7 +3,9 @@ Is an assignment given to me by my Oga... And in this assignment i'll be learnin
 
 # Work Flow
 Create POST Form with Name and Location input fields and save button
+
 Add div's and  Bootstrap classes to the form to make it look good, center the form
+
 Create process.php, add it to Form action and include it from index.php
 Create the MYSQL database "Todolist" and table "data" with id, name and location fields
 Connect to the database and insert the Name and Location records into the "data" table if the save button has been pressed

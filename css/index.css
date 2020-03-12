@@ -1,0 +1,9 @@
+body {
+    font-family: strategosVerdana !important;
+}
+
+.main_body {
+    width: 40%;
+    margin: auto;
+    padding: 100px 0px;
+}
